@@ -253,7 +253,7 @@
     });
   }
   handleFormSubmit(document.getElementById('contactForm'), 'Thank you for contacting SUCCESS SCHOOL! We will call you shortly.');
-  handleFormSubmit(document.getElementById('admissionForm'), 'Your admission enquiry has been submitted! SUCCESS SCHOOL admissions team will contact you soon. Call 9849898863 for immediate assistance.');
+  handleFormSubmit(document.getElementById('admissionForm'), 'Your admission enquiry has been submitted! SUCCESS SCHOOL admissions team will contact you soon. Call 9849808863 for immediate assistance.');
 
   /* Active nav link */
   const currentPage = window.location.pathname.split('/').pop() || 'index.html';
